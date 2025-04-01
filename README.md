@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Skills: Python, R, SQL, SAS, Data Visualization, Machine Learning, Time Series Forecasting
+### Skills: Python, R, SQL, SAS, Data Visualization, Statistical Modeling, Machine Learning, Time Series Forecasting
 
 ### Education
 - B.S., Statstics | University of Virginia (_May 2025_)
