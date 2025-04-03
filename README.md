@@ -1,4 +1,4 @@
-# Data Scientist
+# Aspiring Data Scientist
 
 ### Skills: Python, R, SQL, SAS, Data Visualization, Statistical Modeling, Machine Learning, Time Series Forecasting
 
